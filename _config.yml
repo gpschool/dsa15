@@ -17,6 +17,7 @@ conference:
   hosts:
   - {name: Ciira wa Maina, url: "https://sites.google.com/site/cwamainadekut/"}
   organizers:
+  - {name: Ciira wa Maina, url: "https://sites.google.com/site/cwamainadekut/"}
   - {name: Neil Lawrence, url: "http://inverseprobability.com"}
   - {name: Andreas Damianou, url: "http://staffwww.dcs.sheffield.ac.uk/people/A.Damianou/index.html"}
   - {name: John Quinn, url: "http://air.ug/~jquinn/"}
