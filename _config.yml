@@ -12,6 +12,13 @@ analytics:
   google:
     tracking_id: UA-62991754-1
 
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: gpschool/jekyll-theme
+style: gpss
+
 youtube:
   height: 315
   width: 560
